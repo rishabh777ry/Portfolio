@@ -104,3 +104,44 @@ nav ul li a{
     width: 100%;
     text-align: center;
 }
+.contact-item{
+    padding: 50px;
+}
+.address{
+    padding: 40px 0;
+}
+.li{
+    color: black;
+}
+.contact-icon{
+    padding: 40px 0;
+}
+.icon1{
+    padding: 10px;
+    color: black;
+    background-color: #F3F2EF;
+    border-radius: 200px;
+}
+.icon2{
+    padding: 10px;
+    color: black;
+    background-color: #F3F2EF;
+    border-radius: 200px;
+}
+.icon3{
+    padding: 10px;
+    color: black;
+    background-color: #F3F2EF;
+    border-radius: 200px;
+}
+.icon4{
+    padding: 10px;
+    color: black;
+    background-color: #F3F2EF;
+    border-radius: 200px;
+}
+.footer{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}

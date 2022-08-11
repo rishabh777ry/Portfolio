@@ -1,14 +1,17 @@
 *{
     font-family: rush Script Std;
 }
+
 .Home {
     height: auto;
     width: 100%;
     color: #fff;
-    background-image: url(./img/cool-background.png);
+    background-image: url(./img/technology-computer-creative-design.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     position: relative;
+    text-shadow: 15px 5px 15px black;
+   
 }
 nav{
     position: fixed;
@@ -42,17 +45,21 @@ nav ul li a{
 
 }
 .About{
+    text-shadow:  10px 10px 30px yellow;
     height: auto;
     text-align: center;
+    color: white;
+    background-color: #0d0f29;
 }
 .About h1{
     padding-top: 50px;
 }
 #about_img{
-    background-color: black;
+    box-shadow: 0px 0px 30px rgb(253, 253, 134);
     border-radius: 200px;
     height: auto;
     width: 70%;
+    
 }
 .About #about-text h2{
     padding-top: 20%;
@@ -61,9 +68,12 @@ nav ul li a{
     padding-bottom: 10%;
 }
 .Education{
+    text-shadow:  10px 10px 30px yellow;
     height: auto;
     width: 100%;
+    color: white;
     text-align: center;
+    background-color: #0d0f29;
 }
 .Education h1{
     padding-top: 40px;
@@ -72,6 +82,9 @@ nav ul li a{
     padding: 20px;
 }
 .Skills{
+    text-shadow:  10px 10px 30px yellow;
+    background-color: #0d0f29;
+    color: white;
     height: auto;
     width: 100%;
     text-align: center;
@@ -99,6 +112,9 @@ nav ul li a{
     color: white;
 }
 .Contact{
+    text-shadow:  10px 10px 30px yellow;
+    background-color: #0d0f29;
+    color: white;
     padding: 50px;
     height: auto;
     width: 100%;
@@ -144,4 +160,7 @@ nav ul li a{
     height: auto;
     width: 100%;
     text-align: center;
+    text-shadow:  10px 10px 30px yellow;
+    background-color: #0d0f29;
+    color: white;
 }
